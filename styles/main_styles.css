@@ -526,7 +526,7 @@ section
 {
 	font-size: 36px;
 	font-weight: 500;
-	color: #0e8ce4;
+	color: #bec5ca;
 }
 .header_search
 {
@@ -733,7 +733,7 @@ select option
 	right: 0;
 	width: 50px;
 	height: 100%;
-	background: #0e8ce4;
+	background: #bec5ca;
 	border: none;
 	outline: none;
 	cursor: pointer;
@@ -861,7 +861,7 @@ select option
 {
 	width: 293px;
 	height: 100%;
-	background: #0e8ce4;
+	background: #bec5ca;
 	padding-left: 35px;
 	cursor: pointer;
 	z-index: 1;
